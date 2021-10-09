@@ -17,7 +17,7 @@ php composer.phar create-project --prefer-dist laravel/laravel matcha
 
 # Pull laradock + config
 
-git clone https://github.com/Tariable/Laradock_config.git
+git clone https://github.com/Tariable/LaradockConfig.git
 
 
 
